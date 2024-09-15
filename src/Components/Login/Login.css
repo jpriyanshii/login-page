@@ -32,3 +32,15 @@
     height: 30px;
     width: 30px;
 }
+.mid{
+    display: flex;
+}
+.underline{
+    margin-top: 11px;
+    width: 70px;
+    height: 1px;
+    background-color: black;
+}
+.or{
+    font-size: smaller;
+}
