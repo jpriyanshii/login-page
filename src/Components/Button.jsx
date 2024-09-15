@@ -1,6 +1,5 @@
 import { Button } from "@mui/material";
- import Google from "../Components/Assets/Google.jpg"
-
+import Ggl from "../Components/Assets/Google.jpg"
 import React from "react";
 
 const Btn = () => {
@@ -9,11 +8,11 @@ const Btn = () => {
     <Button
       variant="contained"
       style={{
-        backgroundColor: "white" ,s
+        backgroundColor: "white" ,
         borderRadius: "50",
         color: "black",
       }}
-    >Google
+    >Ggl
     </Button>
     </>
   );
