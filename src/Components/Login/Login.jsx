@@ -22,13 +22,17 @@ export const Login = () => {
             <button><img class='img2' src={In} alt='Linkedin'/></button>
         </div>
        </div>
-       <div class='or'>or</div>
+       <div class='mid'>
+        <div class='underline'></div>
+        <div class='or'>or</div>
+        <div class='underline'></div>
+       </div>
        <div class='inputs'>
         <div class='input'>
-            <input type='text'/>
+            <input type='Email' placeholder='E-mail' />
         </div>
         <div class='input'>
-            <input type='password'/>
+            <input type='password' placeholder='Password' />
         </div>
         <div class='submit-container'>
             <div class='submit'>Log in</div>
