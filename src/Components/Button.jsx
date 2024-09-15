@@ -1,5 +1,5 @@
 import { Button } from "@mui/material";
-import Ggl from "../Components/Assets/Google.jpg"
+import Ggl from "../Components/Assets/Linkedin.jpeg"
 import React from "react";
 
 const Btn = () => {
@@ -12,7 +12,7 @@ const Btn = () => {
         borderRadius: "50",
         color: "black",
       }}
-    >Ggl
+    >GG
     </Button>
     </>
   );
