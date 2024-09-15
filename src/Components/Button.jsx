@@ -11,6 +11,7 @@ const Btn = () => {
         backgroundColor: "white" ,
         borderRadius: "50",
         color: "black",
+        marginBottom: 10,
       }}
     >GG
     </Button>
